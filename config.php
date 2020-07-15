@@ -1,0 +1,3 @@
+<?php
+
+$link = "http://ld-bitvpn-webserver-481332435.us-west-1.elb.amazonaws.com:8080/bitproxy/proxy/adReward?deviceId=And.d9655adb211095fbfd620c18f8c57cb1.bitvpn&userId=426613198267616&token=229f7bad9fba38a7c3dd3520293f6b02&TrackCode=10032906164609030&countryCode=62&adtype=110&adflag=0&amount=99.999999&orderid=00018400-a023-a4e0-0000-01734c1b67c6&sign=&tz=GMT%2b08%3a00&timestamp=1594709731271&siteId=6";
